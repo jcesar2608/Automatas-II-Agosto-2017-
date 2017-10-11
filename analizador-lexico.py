@@ -1,4 +1,5 @@
-#FAUSTO GREGORIO CIPRIANO
+#FAUSTO GREGORIO CIPRIANO 
+#cesar
 import sys
 import ply.lex as lex
 
@@ -7,6 +8,7 @@ viejolineno=0
 columna=0
 
 """
+
 El módulo sys es el encargado de proveer variables y funcionalidades,
 directamente relacionadas con el intérprete.
     sys.argv:
